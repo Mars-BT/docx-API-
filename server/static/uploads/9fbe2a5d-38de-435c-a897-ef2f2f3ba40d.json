@@ -1,0 +1,71 @@
+{
+  "fileId": "9fbe2a5d-38de-435c-a897-ef2f2f3ba40d",
+  "templateName": "报表说明书1",
+  "rules": [
+    {
+      "varname": "计划比",
+      "type": "excel",
+      "format": "formatToChineseNumber",
+      "rules": {
+        "sheetname": "与计划比",
+        "vOrW": true
+      }
+    },
+    {
+      "varname": "同比",
+      "type": "excel",
+      "format": "formatToChineseNumber",
+      "rules": {
+        "sheetname": "与同期比",
+        "vOrW": true
+      }
+    },
+    {
+      "varname": "利润表",
+      "type": "excel",
+      "format": "formatToChineseNumber",
+      "rules": {
+        "sheetname": "利润情况表",
+        "vOrW": true
+      }
+    },
+    {
+      "varname": "商品销售情况表",
+      "type": "excel",
+      "format": "original",
+      "rules": {
+        "sheetname": "2025",
+        "vOrW": true
+      }
+    },
+    {
+      "varname": "外销与收购情况表",
+      "type": "excel",
+      "format": "formatToChineseNumber",
+      "rules": {
+        "sheetname": "2025",
+        "vOrW": true
+      }
+    },
+    {
+      "varname": "其他业务销售明细表",
+      "type": "excel",
+      "format": "formatToWanYuan",
+      "rules": {
+        "sheetname": "Q其他业务销售明细表",
+        "vOrW": true
+      }
+    },
+    {
+      "varname": "2其他业务销售明细表",
+      "type": "excel",
+      "format": "formatToFixed2",
+      "rules": {
+        "sheetname": "Q其他业务销售明细表",
+        "vOrW": true
+      }
+    }
+  ],
+  "createdTime": "2025-06-21T15:06:00.577Z",
+  "updatedTime": "2025-06-21T15:06:00.577Z"
+}

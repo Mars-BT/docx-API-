@@ -1,0 +1,18 @@
+=== 📋 日志记录文件 ===
+生成时间: 2025/6/19 11:54:00
+总记录数: 12
+
+[2025-06-19T03:54:00.918Z] [ℹ️ INFO] [模板路径: ./template.docx, 输出路径: ./generated.docx] DocxTemplateEngine 实例已创建
+[2025-06-19T03:54:00.920Z] [ℹ️ INFO] [DocxTemplateEngine] === 🏗️ 模板引擎初始化 ===
+[2025-06-19T03:54:00.920Z] [🐛 DEBUG] [DocxTemplateEngine] 这是一个调试消息 | 模板路径: ./template.docx | 输出路径: ./generated.docx
+[2025-06-19T03:54:00.921Z] [🐛 DEBUG] [DocxTemplateEngine] 这是一个调试消息 | 模板路径: ./template.docx | 输出路径: ./generated.docx
+[2025-06-19T03:54:00.921Z] [🐛 DEBUG] [DocxTemplateEngine] 这是一个调试消息 | 模板路径: ./template.docx | 输出路径: ./generated.docx
+[2025-06-19T03:54:00.921Z] [🐛 DEBUG] [DocxTemplateEngine] 这是一个调试消息 | 模板路径: ./template.docx | 输出路径: ./generated.docx
+[2025-06-19T03:54:00.921Z] [ℹ️ INFO] [DocxTemplateEngine] === 📂 路径配置 ===
+[2025-06-19T03:54:00.921Z] [ℹ️ INFO] [从 ./generated.docx 更新为 ./new_output.docx] 输出路径已更新
+[2025-06-19T03:54:00.921Z] [ℹ️ INFO] [DocxTemplateEngine] === ⚠️ 错误处理测试 ===
+[2025-06-19T03:54:00.922Z] [⚠️ WARN] [DocxTemplateEngine] 这是一个警告消息
+[2025-06-19T03:54:00.922Z] [❌ ERROR] [DocxTemplateEngine] 这是一个错误消息
+[2025-06-19T03:54:00.922Z] [ℹ️ INFO] [DocxTemplateEngine] === 💾 日志保存 ===
+
+=== ✅ 日志记录结束 ===
